@@ -7,7 +7,7 @@ Clone of some function in the ctype library
 
 ## Features
 
-- is_upper(): Checks if a character is uppercase
-- is_lower(): Checks if a character is lowercase
-- to_upper(): Converts a lowercase character to the uppercase variant
-- to_lower(): Converts a uppercase character to the lowercase variant
+- _is_upper():_ Checks if a character is uppercase
+- _is_lower():_ Checks if a character is lowercase
+- _to_upper():_ Converts a lowercase character to the uppercase variant
+- _to_lower():_ Converts a uppercase character to the lowercase variant
