@@ -1,7 +1,7 @@
 # ctype-replica
 Clone of some function in the ctype library
 
-## Instalation
+## Installation
 
 **Just download and compile the code**
 
